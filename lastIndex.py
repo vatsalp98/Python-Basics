@@ -2,7 +2,7 @@
 #
 # Description: Program returns the index of the last occurence of target in a given set of data
 #
-# Author: Himani Boury
+# Author: Vatsal Parmar
 # Date: 18th July, 2019
 
 
